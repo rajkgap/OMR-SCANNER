@@ -1,0 +1,62 @@
+{
+  "pageDimensions": [ 1461, 1980 ],
+  "bubbleDimensions": [ 29, 29 ],
+  "fieldBlocks": {
+    "MCQBlock1": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 606, 144 ],
+      "fieldLabels": ["q1..35"],
+      "bubblesGap": 31,
+      "labelsGap": 31.1
+    },
+    "MCQBlock2": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 604, 1251 ],
+      "fieldLabels": ["q36..50"],
+      "bubblesGap": 31,
+      "labelsGap": 31.12
+    },
+    "MCQBlock3": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 797, 144 ],
+      "fieldLabels": ["q51..85"],
+      "bubblesGap": 31,
+      "labelsGap": 31.1
+    },
+    "MCQBlock4": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 797, 1251 ],
+      "fieldLabels": ["q86..100"],
+      "bubblesGap": 31,
+      "labelsGap": 31.12
+    },
+    "MCQBlock5": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 989, 144 ],
+      "fieldLabels": ["q101..135"],
+      "bubblesGap": 31,
+      "labelsGap": 31.1
+    },
+    "MCQBlock6": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 989, 1251 ],
+      "fieldLabels": ["q136..150"],
+      "bubblesGap": 31,
+      "labelsGap": 31.12
+    },
+    "MCQBlock7": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 1183, 144 ],
+      "fieldLabels": ["q151..185"],
+      "bubblesGap": 31,
+      "labelsGap": 31.1
+    },
+    "MCQBlock8": {
+      "fieldType": "QTYPE_MCQ4",
+      "origin": [ 1183, 1251 ],
+      "fieldLabels": ["q186..200"],
+      "bubblesGap": 31,
+      "labelsGap": 31.12
+    }
+  }
+}
